@@ -1,0 +1,11 @@
+git clone: --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo
+ls <direcotry name>: lists contents of a directory
+cd: go home
+cd <directory name>: change directory
+cd ..:Go up
+cat <file name>: View the contents of a file
+gedit <file name>&: creating a new file/opening a file that already exists
+git add <file name>: to start tracking a new file 
+git status: lists what you modified 
+git commit -m "Commit Comment(brief description of what you did)": to record the snapshot into my history
+git push: to push my new data to a remote repository 

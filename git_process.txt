@@ -1,0 +1,16 @@
+Click on the terminal icon. (It's on the bottom left corner of your computer screen; it is a black icon with a white boundary)
+You'll see a black area where you can type. Type in this (you should change the username and password parts to your OWN username and password for your proxy): git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+Press enter.
+Type "ls", press the space bar, and then type the name of your repository folder. (You can type the first few letters of the name and press the tab key and let the rest of the name pop up. Tab key is on the left side of your keyboard)
+Press enter.
+Type "cd" , press the space bar, and then type the name of your repository folder. (Again, you can type the first few letters and press the tab key)
+Press enter. (You are now IN your repository folder)
+Type "gedit", press the space bar, and then type the name of the file that you are trying to create. 
+Press enter. The new file you've created will pop up. Type in the things you want within the new file.
+Press save. Then, close it.
+Type "gitadd", press the space bar, and then type the name of that new file. 
+Press enter.
+Type "git commit", press the space bar, and then type the name of that new file, again.
+Press enter.
+Finally, type "git push" 
+Press enter. (Something will pop up that asks you to type your username and password of your github account)

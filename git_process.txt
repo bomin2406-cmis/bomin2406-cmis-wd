@@ -8,9 +8,9 @@ Press enter. (You are now IN your repository folder)
 Type "gedit", press the space bar, and then type the name of the file that you are trying to create. 
 Press enter. The new file you've created will pop up. Type in the things you want within the new file.
 Press save. Then, close it.
-Type "gitadd", press the space bar, and then type the name of that new file. 
+Type "git add", press the space bar, and then type the name of that new file. 
 Press enter.
-Type "git commit", press the space bar, and then type the name of that new file, again.
+Type "git commit", press the space bar, and then type "-m", press the space bar, and type in what you've done until now.
 Press enter.
 Finally, type "git push" 
 Press enter. (Something will pop up that asks you to type your username and password of your github account)

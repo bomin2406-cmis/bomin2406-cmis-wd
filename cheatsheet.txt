@@ -9,3 +9,9 @@ git add <file name>: to start tracking a new file
 git status: lists what you modified 
 git commit -m "Commit Comment(brief description of what you did)": to record the snapshot into my history
 git push: to push my new data to a remote repository 
+sftp username@cmis-hsteacher: to move files between Mr. Kieffer's and my computer
+!ls : listing files within Mr.Kieffer's computer
+!ls * : to list the files, and to mark with an *
+put : adding files to Mr.Kieffer's computer
+rm : removing files from Mr.Kieffer's computer
+rm *ending of the file name: to remove EVERY FILES that ends with that ending

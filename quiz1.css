@@ -1,0 +1,71 @@
+h1{
+	font-family: Impact, Charcoal,sans-serif;
+	font-size: 40px;
+	font-style: italic; 
+	color: yellow;
+	background-color: purple;
+}
+{
+	font-family: Impact, Charcoal,sans-serif;
+	font-size: 10px;
+	font-style: italic; 
+	color: blue;
+	background-color: red;
+	border-style: none none dashed none;
+	border-color: none none yellow none;
+	border-width: 10px;
+}
+h2{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 35px;
+	color: purple;
+	background-color: yellow;
+}
+h3{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 30px;
+	color: yellow;
+	background-color: green;
+	border-style: none none dotted none;
+	border-color: yellow;
+	border-width: 5px;
+}
+h4{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 30px;
+	color: yellow;
+	background-color: green;
+	border-style: none none dotted none;
+	border-color: yellow;
+	border-width: 5px;
+}
+h5{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 35px;
+	color: purple;
+	background-color: yellow;
+}
+p{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 25px;
+	color: blue;
+	background-color: white;
+}
+header{
+	border-style: none none dashed none;
+	border-color: yellow;
+	border-width: 30px;
+}
+main{
+	border-style: dashed solid none solid;
+	border-color: purple blue red;
+	border-width: 1px 25px none 25px;
+}
+footer{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+	color: blue;
+	border-style: dotted double none double;
+	border-color: black orange none orange;
+	border-width: 1px 10px none 5px;
+}

@@ -1,0 +1,21 @@
+header > h1{
+	background-color:green;
+	width:100px;
+	padding: 50px;
+	border: 30px solid black;
+	margin: 25px;
+}
+main h2{
+	background-color:blue;
+	width:100px;
+	padding: 10px;
+	border: 10px solid black;
+	margin: 15px;	
+}
+header ~ main{
+	background-color:yellow;
+	width:500px;
+	padding: 50px;
+	border: 30px solid black;
+	margin: 25px;
+}

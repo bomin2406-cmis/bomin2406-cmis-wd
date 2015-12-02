@@ -5,17 +5,45 @@ header > h1{
 	border: 30px solid black;
 	margin: 25px;
 }
+h1{
+	background-color:green;
+	width:170px;
+	padding: 50px;
+	border: 30px solid black;
+	margin: 25px;
+}
+h2{
+	background-color:orange;
+	width:150px;
+	padding: 30px;
+	border: 10px inset white;
+	margin: 5px;
+}		
 main h2{
 	background-color:blue;
 	width:100px;
 	padding: 10px;
 	border: 10px solid black;
-	margin: 15px;	
+	margin: 25px;	
 }
 header ~ main{
 	background-color:yellow;
 	width:500px;
 	padding: 50px;
-	border: 30px solid black;
+	border: 100px solid black;
 	margin: 25px;
 }
+header + nav{
+	background-color:green;
+	width:100px;
+	padding: 50px;
+	border: 20px ridge gray;
+	margin: 25px;
+}
+head ~ body{
+	background-color:LightCyan;
+	width:900px;
+	padding: 50px;
+	border: 20px double white;
+	margin: 25px;
+}		

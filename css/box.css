@@ -30,7 +30,8 @@ header ~ main{
 	background-color:yellow;
 	width:500px;
 	padding: 50px;
-	border: 100px solid black;
+	border-color: red black red;
+	border-style: solid;
 	margin: 25px;
 }
 header + nav{

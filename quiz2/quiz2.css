@@ -1,0 +1,42 @@
+h1{
+	font-size:50px;
+}
+h1{
+	background-color:red;
+	width:400px;
+	border:solid yellow;
+	border-width:1px;
+}
+h2{
+	font-size:30px;
+}
+h3{
+	font-size:30px;
+}
+head > h1{
+	background-color:red;
+	width:100px;
+	border: 30px solid black;
+	margin: 25px;
+}
+h1 > p{
+	background-color:yellow;
+	width:100px;
+	border: 70px solid black;
+}
+h2 ~ nav{
+	width:200px;
+	border: 1px solid black;
+}
+h3 ~ p{
+	background-color:gray;
+	width:100px;
+	padding: 600px;
+}
+footer{
+	background-color:blue;
+	width:500px;
+	border: 30px dashed blue;
+	padding: 30px white;
+	margin: 70px;
+}

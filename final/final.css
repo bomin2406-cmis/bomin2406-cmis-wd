@@ -1,3 +1,48 @@
 *{
 	outline:solid black 1px;
 }
+head ~ body{
+	background-color: khaki;
+}
+h1{
+	font-family: 
+	font-size: 40px;
+	border-style: groove;
+	border-color: orange;
+	border-width: 35px;
+	background-color: yellow;
+}
+h2{
+	font-family: 
+	font-size: 40px;
+	border-style: groove;
+	border-color: orange;
+	border-width: 35px;
+	background-color: yellow;
+}
+p{
+	font-family: 
+	font-size: 40px;
+	border-style: groove;
+	border-color: orange;
+	border-width: 35px;
+	background-color: yellow;
+}
+nav{
+	width:200px;
+	float:left;
+	font-family: 
+	font-size: 40px;
+	border-style: groove;
+	border-color: orange;
+	border-width: 35px;
+	background-color: yellow;
+}
+main{
+	margin-left:100px;
+	width:800px;	
+}
+article{
+	clear: left;
+	float: right;
+}

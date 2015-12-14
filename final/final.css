@@ -17,8 +17,9 @@ h2{
 	font-size: 40px;
 	border-style: groove;
 	border-color: orange;
-	border-width: 35px;
+	border-width:
 	background-color: yellow;
+	width: 1200px;
 }
 p{
 	font-family: 
@@ -27,6 +28,7 @@ p{
 	border-color: orange;
 	border-width: 35px;
 	background-color: yellow;
+	width:1300px;
 }
 nav{
 	width:200px;
@@ -39,10 +41,13 @@ nav{
 	background-color: yellow;
 }
 main{
-	margin-left:100px;
 	width:800px;	
 }
 article{
-	clear: left;
+	clear: right;
 	float: right;
+	width: 500px;
+}
+img.left{
+	float:left;
 }

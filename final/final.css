@@ -1,53 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
+@import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
 *{
-	outline:solid black 1px;
+	outline:solid red 1px;
 }
 head ~ body{
-	background-color: khaki;
+	background-color: #FFDC58;
 }
 h1{
-	font-family: 
+	font-family: 'Architects Daughter', cursive;
 	font-size: 40px;
-	border-style: groove;
-	border-color: orange;
-	border-width: 35px;
-	background-color: yellow;
+	border-style: outset;
+	border-color:#FFCA00;
+	border-width: 25px;
+	width: 200px;
 }
 h2{
-	font-family: 
-	font-size: 40px;
-	border-style: groove;
-	border-color: orange;
-	border-width:
-	background-color: yellow;
-	width: 1200px;
+	font-family: "Covered By Your Grace", cursive; 
+	font-size:30px;
+	border-style: dashed;
+	border-color: #FFFCF3;
+	border-width: 5px;
+	width: 300px;
 }
 p{
 	font-family: 
 	font-size: 40px;
-	border-style: groove;
-	border-color: orange;
-	border-width: 35px;
-	background-color: yellow;
-	width:1300px;
+	background-color:#FFCF19;
+	width:450px;
 }
 nav{
 	width:200px;
 	float:left;
 	font-family: 
 	font-size: 40px;
-	border-style: groove;
-	border-color: orange;
-	border-width: 35px;
-	background-color: yellow;
+	border-style: double;
+	border-color:#977908;
+	border-width: 7px;
 }
 main{
 	width:800px;	
 }
 article{
 	clear: right;
-	float: right;
-	width: 500px;
+	width: 50px;
+	margin-left:271px;
+}
+ul{
+	float:left;
 }
 img.left{
-	float:left;
+	clear:both;
+}
+img.right{
+	float:right;
+	clear:right;
+}
+footer{
+	clear:both;
 }

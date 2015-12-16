@@ -2,9 +2,6 @@
 @import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
 @import url(https://fonts.googleapis.com/css?family=Bilbo+Swash+Caps);
-*{
-	outline:solid red 1px;
-}
 head ~ body{
 	background-color: #FFDC58;
 }

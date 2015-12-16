@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
 @import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(https://fonts.googleapis.com/css?family=Bilbo+Swash+Caps);
 *{
 	outline:solid red 1px;
 }
@@ -23,16 +25,16 @@ h2{
 	width: 300px;
 }
 p{
-	font-family: 
-	font-size: 40px;
+	font-family: 'Bilbo Swash Caps', cursive;
+	font-size: 20px;
 	background-color:#FFCF19;
-	width:450px;
+	width:500px;
 }
 nav{
 	width:200px;
 	float:left;
-	font-family: 
-	font-size: 40px;
+	font-family: 'Sorce Sans Pro', sans-serif;
+	font-size: 15px;
 	border-style: double;
 	border-color:#977908;
 	border-width: 7px;
@@ -42,14 +44,14 @@ main{
 }
 article{
 	clear: right;
-	width: 50px;
+	width: 750px;
 	margin-left:271px;
 }
 ul{
-	float:left;
+	width: 300px;
 }
 img.left{
-	clear:both;
+	clear:left;
 }
 img.right{
 	float:right;
@@ -58,3 +60,4 @@ img.right{
 footer{
 	clear:both;
 }
+	
